@@ -7,6 +7,9 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
+li {
+  font-size: 20px;
+}
 p {
   font-size: 20px;
 }
@@ -18,7 +21,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #c2dde6;
+  color: darkgrey;
   outline: none;
 }
 h1,
