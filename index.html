@@ -31,6 +31,39 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <style>
+        .grid-container-12 {
+            display: grid;
+            padding: 10px;
+            grid-template-columns: 1fr 2fr; /* 两列等宽 */
+            /* gap: 0%; 两列之间的间距 */
+        }
+        .grid-container-11 {
+            display: grid;
+            padding: 10px;
+            grid-template-columns: 1fr 1fr; /* 两列等宽 */
+            /* gap: 0%; 两列之间的间距 */
+        }
+        .grid-item {
+            padding: 10px;
+        }
+
+        .gray-text {
+            color: grey;
+        }
+
+        table {
+            width: 100%;
+            border: 2px solid #333;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ccc;
+        }
+    </style>
+
 </head>
 
 <body id="page-top" class="index">
@@ -52,9 +85,9 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <li class="page-scroll">
+                    <!-- <li class="page-scroll">
                         <a href="#portfolio">portfolio</a>
-                    </li>
+                    </li> -->
                     <li class="page-scroll">
                         <a href="#brief">brief</a>
                     </li>
@@ -62,13 +95,13 @@
                         <a href="#education">education</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#competition">competition</a>
+                        <a href="#research">research</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#project">project</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#research">research</a>
+                        <a href="#competition">competition</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">about</a>
@@ -85,11 +118,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="img/profile.png" alt="" 
+                        style="border-radius:50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <div class="intro-text">
                         <span class="name">Hey there! I am Liam!</span>
                         <hr class="star-light">
-                        <span class="skills">Add your skills here. Eg: <br/> Web Developer - Graphic Artist</span>
+                        <span class="skills">CS Undergraduate <br/> Sport lover | Computer gaming enthusiast <br/> Someone who writes code | AIGCer </span> 
                     </div>
                 </div>
             </div>
@@ -97,7 +131,7 @@
     </header>
 
     <!-- Portfolio Grid Section -->
-    <section id="portfolio">
+    <!-- <section id="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -168,7 +202,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Brief Section -->
     <section id="brief">
@@ -179,33 +213,89 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <marquee><h2>Brief</h2></marquee>
+            <div style="margin:3% 10%;" class="grid-container-12">
+                <div class="grid-item">
+                    <p> 
+                        <i class="fa fa-user"></i> &nbsp&nbsp Chengxing Zhou <br/><br/>
+                        <i class="fa fa-envelope"></i> &nbsp 20206780@stu.neu.edu.cn <br/><br/>
+                        <i class="fa fa-phone"></i> &nbsp&nbsp(+86) 134 5817 2455 <br/><br/>
+                        <i class="fa fa-map-marker"></i> &nbsp&nbsp ChongQing / SiChuan <br/><br/>
+                        <i class="fa fa-github"></i> &nbsp&nbsp<a href="https://github.com/xiningin">github.com/xiningin</a> <br/><br/>
+                        <i class="fa fa-steam"></i> &nbsp<a href="https://steamcommunity.com/profiles/76561199078900855/">7小时的萌薪</a> <br/><br/>
+                    </p>
+                </div>
+                <div class="grid-item">
+                    <div id="pie-chart" style="width: 100%; height: 100%;"></div>
+                </div>
+            </div>
+            <p style="margin:3% 10%;">
+                Here is some personal information about me. I am an <b>undergraduate</b> student majoring in <b>computer science</b> from <b>Sichuan/Chongqing</b>. 
+                I usually have the habit of playing games. The above is my Steam account. Recently, I am more interested in <b>horror games</b> and <b>soul games</b>. 
+                In terms of my research, I have been exposed to the fields of <b>'Image Text Multimodal'</b> and <b>'Generative Model'</b>, etc. 
+                The radar map shows my relative familiarity with each direction.
+            </p>
         </div>
     </section> 
 
     <!-- Education Section -->
     <section id="education">
         <div class="container">
+            <!-- 学校介绍 -->
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Education</h2>
                     <hr class="star-primary">
                 </div>
             </div>
-            <marquee><h2>Education</h2></marquee>
+            <div style="margin:3% 10%;">
+                <p> 
+                    <a href="https://www.neu.edu.cn/">Northeast University(NEU)</a>, ShenYang, China <br/>
+                    2020.09 - 2024.06, Undergraduate, Software Engineering
+                </p> 
+                <img src="img/NEU.jpg" class="img-responsive" alt=""
+                    style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                <br/>
+
+                <p> 
+                    <a href="https://www.sysu.edu.cn/">Sun Yat-sen University(SYSU)</a>, Kwangtung, China <br/>
+                    2024.09 - XXXX.XX, Master, Computer Science
+                </p> 
+                <img src="img/SYSU.jpg" class="img-responsive" alt=""
+                    style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                <br/>
+
+            </div>
+            <p style="margin:3% 10%;">
+                I study in the College of <b>Software Engineering</b> of Northeastern University as an undergraduate student. 
+                In the summer of 2023, I participated in the summer camp of the College of <b>Computer Science</b> of Sun Yat-sen University 
+                (exempted from entrance examination and admission) and became an excellent camper. 
+                Finally, on September 29, 2023, I decided to study for a master's degree in the College of <b>Computer Science</b> at Sun Yat-sen University.
+            </p>
+            
+            
+            <!-- 荣誉称号、奖项介绍 -->
+            <div style="margin:3% 10%;">
+                <img src="img/honor.png" class="img-responsive" alt=""
+                    style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+            </div>
+            <p style="margin:3% 10%;">
+                I won some honors during my undergraduate study. The picture shows some of the more beautiful awards. 
+                Tens of thousands of scholarships, hhhhh.
+            </p>
+
         </div>
     </section> 
 
-    <!-- Competition Section -->
-    <section id="competition">
+    <!-- Research Section -->
+    <section id="research">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Competition</h2>
+                    <h2>Research</h2>
                     <hr class="star-primary">
                 </div>
             </div>
-            <marquee><h2>Competition</h2></marquee>
+            <marquee><h2>Waiting for coding</h2></marquee>
         </div>
     </section>
 
@@ -218,20 +308,56 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <marquee><h2>Project</h2></marquee>
+            <marquee><h2>Waiting for coding</h2></marquee>
         </div>
     </section>
 
-    <!-- Research Section -->
-    <section id="research">
+    <!-- Competition Section -->
+    <section id="competition">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Research</h2>
+                    <h2>Competition</h2>
                     <hr class="star-primary">
                 </div>
             </div>
-            <marquee><h2>Research</h2></marquee>
+            <div style="margin:3% 10%;">
+                <table>
+                    <tr>
+                        <td colspan="2"><img src="img/competition/挑战杯.PNG" alt="Image 1" width="950" ></td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2"><img src="img/competition/微信.PNG" alt="Image 1" width="450" ></td>
+                        <td>
+                            <img src="img/competition/互联网+.PNG" alt="Image 3" width="450" >
+                            <img src="img/competition/数学建模.PNG" alt="Image 4" width="450" >
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div style="margin:3% 10%;">
+                <li>
+                    <b>挑战杯 2023.3</b>
+                    <br/>
+                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
+                </li>
+                <li>
+                    <b>微信小程序应用开发大赛 2022.8</b>
+                    <br/>
+                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
+                </li>
+                <li>
+                    <b>互联网+大赛 2022.9</b>
+                    <br/>
+                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
+                </li>
+                <li>
+                    <b>全国数学建模竞赛 2022.10</b>
+                    <br/>
+                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
+                </li>
+            </div>
         </div>
     </section>
 
@@ -304,7 +430,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Your Website 2016
+                        Copyright &copy; Liam Zhou Website 2023
                     </div>
                 </div>
             </div>
@@ -554,6 +680,60 @@
     <!-- Theme JavaScript -->
     <script src="js/freelancer.min.js"></script>
 
+    <!-- Echarts -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.3.2/dist/echarts.min.js"></script>
+
+    <script>
+        // =================== brief中的雷达图 ===================
+        // 初始化echarts实例
+        var myChart = echarts.init(document.getElementById('pie-chart'));
+        
+        // 饼图的配置选项
+        var option = {
+            radar: {
+                shape: 'circle',
+                indicator: [
+                    { name: 'Image Text Multimodal', max: 45 },
+                    { name: 'Generative Model', max: 45 },
+                    { name: 'Large Language Model', max: 45 },
+                    { name: 'Text-to-SQL', max: 45 },
+                    { name: 'Sentiment Analysis', max: 45 },
+                ],
+                name: {
+                    textStyle: {
+                        color: 'black',  // 设置字体颜色
+                        fontSize: 13    // 设置字体大小
+                    }
+                }
+            },
+            lineStyle: {
+                color: 'gray', // 设置线条颜色
+                width: 1 // 设置线条宽度
+            },
+            series: [
+                {
+                    name: 'Fields of Study',
+                    type: 'radar',
+                    data: [
+                        {
+                            value: [40, 20, 20, 10, 10],
+                            name: 'Fields of Study',
+                            symbol: 'circle',
+                            symbolSize: 5,
+                            itemStyle: {
+                                color: 'gray',      // 设置标记颜色
+                                borderColor: 'gray'  // 设置标记边框颜色
+                            },
+                        },
+                    ]
+                }
+            ]
+        };
+        // 使用配置选项绘制饼图
+        myChart.setOption(option);
+
+      </script>
+      
 </body>
 
 </html>
