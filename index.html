@@ -52,16 +52,18 @@
             color: grey;
         }
 
-        table {
-            width: 100%;
-            border: 2px solid #333;
+        .awardData-text {
+            color: #c2dde6;
         }
 
-        th, td {
-            padding: 10px;
+        .center-text {
             text-align: center;
-            border: 1px solid #ccc;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* height: 100vh; */
         }
+
     </style>
 
 </head>
@@ -85,9 +87,6 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <!-- <li class="page-scroll">
-                        <a href="#portfolio">portfolio</a>
-                    </li> -->
                     <li class="page-scroll">
                         <a href="#brief">brief</a>
                     </li>
@@ -130,80 +129,6 @@
         </div>
     </header>
 
-    <!-- Portfolio Grid Section -->
-    <!-- <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
     <!-- Brief Section -->
     <section id="brief">
         <div class="container">
@@ -230,9 +155,9 @@
             </div>
             <p style="margin:3% 10%;">
                 Here is some personal information about me. I am an <b>undergraduate</b> student majoring in <b>computer science</b> from <b>Sichuan/Chongqing</b>. 
-                I usually have the habit of playing games. The above is my Steam account. Recently, I am more interested in <b>horror games</b> and <b>soul games</b>. 
+                I usually have the habit of playing games. The above is my Steam account. Recently, I am more interested in <b>horror games</b> and <b>soul-like games</b>. 
                 In terms of my research, I have been exposed to the fields of <b>'Image Text Multimodal'</b> and <b>'Generative Model'</b>, etc. 
-                The radar map shows my relative familiarity with each direction.
+                The radar map shows my <b>relative familiarity</b> with each direction.
             </p>
         </div>
     </section> 
@@ -295,7 +220,62 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <marquee><h2>Waiting for coding</h2></marquee>
+            <div style="margin: 3% 10%;">
+                <h3><a href="https://neu-datamining.github.io/">NEU Data Mining Group</a></h3>
+                <p style="float: right;">2022.10 ~ 2022.04</p> 
+                <p>
+                    <b>Field of Research: </b> 
+                    <ul>
+                        <li>Multimodal Sentiment Analysis</li>
+                        <li>Large Empathic Dialogue Model</li>
+                    </ul>
+                </p>
+                <p>
+                    <b>Participating Work: </b> 
+                    <ul>
+                        <li><a href="https://github.com/NEU-DataMining/PICA">PICA</a>: Unleashing The Emotional Power of Large Language Model</li>
+                    </ul>
+                </p>
+                <br>
+                
+
+                <h3><a href="http://www.fudan-disc.com/">FDU Data Intelligence and Social Computing Lab</a></h3>
+                <p style="float: right;">2023.02 - Now</p>
+                <p>
+                    <b>Field of Research: </b> 
+                    <ul>
+                        <li>Large Vision Language Model Benchmark</li>
+                        <li>Large Empathic Dialogue Model Interpretability Research</li>
+                    </ul>
+                </p>
+                <p>
+                    <b>Participating Work: </b> 
+                    <ul>
+                        <li><a href="https://github.com/FudanDISC/ReForm-Eval">ReForm-Eval</a>: Evaluating large vision language models via 
+                            unified re-formulation of task-oriented benckmarks</li>
+                        <li>
+                            Multimodal large model probe (Ongoing)
+                        </li>
+                    </ul>
+                </p>
+                <br>
+
+                <h3><a href="https://www.sysu-hcp.net/home/">SYSU Human Cyber Physical Intelligence Integration Lab</a></h3>
+                <p style="float: right;">2023.10 - Now (Maybe I am in)</p>
+                <p>
+                    <b>Field of Research: </b> 
+                    <ul>
+                        <li>Consistency Models</li>
+                    </ul>
+                </p>
+                <p>
+                    <b>Participating Work: </b> 
+                    <ul>
+                        
+                    </ul>
+                </p>
+            </div>
+            <marquee><h3>Continually updated</h3></marquee>
         </div>
     </section>
 
@@ -308,7 +288,82 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <marquee><h2>Waiting for coding</h2></marquee>
+            <div style="margin: 3% 10%;">
+                <img src="img/github-repo.png" class="img-responsive" alt=""
+                    style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+            </div>
+            <p style="margin:3% 10%;">
+                My project experience so far has focused on <strong>natural language processing</strong>, <strong>cross-visual language 
+                multimodal</strong> areas, and some <strong>front-end development</strong>. Most of them are uploaded to my 
+                <a href="https://github.com/xiningin">github repository</a>, welcome to visit.
+            </p>
+            <div style="margin: 3% 10%;">
+                <p><strong>Huggingface</strong></p>
+                <ul>
+                    <li>Fine-tune BERT model on SST2 data set to implement text classification</li>
+                    <li>Fine-tune the ViT model on the Food101 dataset for image classification</li>
+                    <li>Fine-tune the Wav2Vec model on the MInDS-14 dataset for audio classification</li>
+                </ul>
+                <p><strong>Kaggle</strong></p>
+                <ul>
+                    <li>
+                        Sentiment Analysis on Movie Review <a href="https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews">(link)</a> 
+                        <br>
+                        <p class="gray-text">Fine-grained sentiment classification of film review data</p>
+                    </li>
+                    <li>
+                        Natrual Language Processing with Disaster Tweets <a href="https://www.kaggle.com/competitions/nlp-getting-started">(link)</a>
+                        <br>
+                        <p class="gray-text">Dichotomies predict whether a tweet is about a real disaster</p>
+                    </li>
+                    <li>
+                        Google AI4Code - Understand Code in Python Notebooks <a href="https://www.kaggle.com/competitions/google-ai-code-understanding-python-notebooks">(link)</a>
+                        <br>
+                        <p class="gray-text">Sort markdown cells according to the code cell order in the json file of the Jupyter notebook</p>
+                    </li>
+                </ul>
+                <p><strong>Natural Language Processing <a href="https://github.com/xiningin/NLP_learning">(code)</a></strong></p>
+                <ul>
+                    <li>
+                        Spelling Correction <br>
+                        <p class="gray-text">Based on Bayesian probability formula and Markov chain</p>
+                    </li>
+                    <li>
+                        Word Embedding <br>
+                        <p class="gray-text">Word vector calculation based on Skip-Gram or CBOW</p>
+                    </li>
+                    <li>
+                        Fine-Grained Text Classification <br>
+                        <p class="gray-text">Linear regression classification, dataset, gradient descent, etc. based on numpy</p>
+                    </li>
+                    <li>
+                        Fine-Grained Text Classification <br>
+                        <p class="gray-text">Use the pytorch framework to implement classification using TextCNN or RNN series models</p>
+                    </li>
+                </ul>
+                <p><strong>Cross-Visual Language Multimodal</strong></p>
+                <ul>
+                    <li>
+                        Image and text retrieval system <a href="https://github.com/xiningin/VSEpp-Text-Image-Retrieve">(code)</a><br>
+                        <p class="gray-text">Based on the dual-tower architecture , use GRU model, ResNet model, and other transformer 
+                            architecture pre-training models to try to improve</p>
+                    </li>
+                    <li>
+                        ReForm-Eval <a href="https://github.com/FudanDISC/ReForm-Eval">(code)</a><br>
+                        <p class="gray-text">Evaluating large vision language models via unified re-formulation of task-oriented benckmarks. 
+                            Participated during internship in FDU-DISC laboratory</p>
+                    </li>
+                </ul>
+                <p><strong>Front-End Development</strong></p>
+                <ul>
+                    <li>
+                        Hanoi Tower <a href="https://github.com/xiningin/VUE_project">(code)</a><br>
+                    </li>
+                    <li>
+                        Large Screen Statistics System <a href="https://github.com/xiningin/VUE_project">(code)</a><br>
+                    </li>
+                </ul>
+            </div>
         </div>
     </section>
 
@@ -321,49 +376,51 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div style="margin:3% 10%;">
-                <table>
-                    <tr>
-                        <td colspan="2"><img src="img/competition/挑战杯.PNG" alt="Image 1" width="950" ></td>
-                    </tr>
-                    <tr>
-                        <td rowspan="2"><img src="img/competition/微信.PNG" alt="Image 1" width="450" ></td>
-                        <td>
-                            <img src="img/competition/互联网+.PNG" alt="Image 3" width="450" >
-                            <img src="img/competition/数学建模.PNG" alt="Image 4" width="450" >
-                        </td>
-                    </tr>
-                </table>
+            <div class="row">
+                <div class="col-sm-4 competition-item">
+                    <a href="#competitionModal1" class="competition-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/competition/幻灯片3.PNG" class="img-responsive" alt="">
+                    </a>
+                    <h4 class="center-text">Program Development</h4>
+                </div>
+                <div class="col-sm-4 competition-item">
+                    <a href="#competitionModal2" class="competition-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/competition/幻灯片1.PNG" class="img-responsive" alt="">
+                    </a>
+                    <h4 class="center-text">Commercial Competition</h4>
+                </div>
+                <div class="col-sm-4 competition-item">
+                    <a href="#competitionModal3" class="competition-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/competition/幻灯片2.PNG" class="img-responsive" alt="">
+                    </a>
+                    <h4 class="center-text">Mathematical Modeling</h4>
+                </div>
             </div>
-
-            <div style="margin:3% 10%;">
-                <li>
-                    <b>挑战杯 2023.3</b>
-                    <br/>
-                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
-                </li>
-                <li>
-                    <b>微信小程序应用开发大赛 2022.8</b>
-                    <br/>
-                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
-                </li>
-                <li>
-                    <b>互联网+大赛 2022.9</b>
-                    <br/>
-                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
-                </li>
-                <li>
-                    <b>全国数学建模竞赛 2022.10</b>
-                    <br/>
-                    略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略略
-                </li>
-            </div>
+            <p style="margin:3% 10%;">
+                During my undergraduate period, I participated in various competitions and achieved some results, 
+                Here I present several of the more prominent ones.
+            </p>
         </div>
     </section>
 
     
     <!-- About Section -->
-    <section class="success" id="about">
+    <!-- <section class="success" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -379,13 +436,13 @@
                     <p>Write a short paragraph about your hobbies and interests.</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <!-- <a href="#" class="btn btn-lg btn-outline">
+                    <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Theme
-                    </a> -->
+                    </a>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Contact Section -->
 
@@ -396,32 +453,40 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>辽宁省沈阳市浑南校区东北大学
-                            <br>重庆市渝北区人和照母山</p>
+                        <p>
+                            Shenyang City, Liaoning Province
+                            <br>
+                            Chongqing Municipality
+                            <br>
+                            Chengdu, Sichuan Province
+                        </p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                                <button id="b1" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></button>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                                <button id="b2" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></button>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                                <button id="b3" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></button>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                            </li>
-                            <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+                                <a href="https://github.com/xiningin" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
                             </li>
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Yourname</h3>
-                        <p>Chengxing Zhou</p>
+                        <h3>nicknames</h3>
+                        <p>
+                            Chen xin
+                            <br>
+                            Liam
+                            <br>
+                            xingxing
+                        </p>
                     </div>
                 </div>
             </div>
@@ -444,8 +509,86 @@
         </a>
     </div>
 
-    <!-- Portfolio Modals -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Competition Modals -->
+    <div class="competition-modal modal fade" id="competitionModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Program Development Competition</h2>
+                            <hr class="star-primary">
+                            <img src="img/competition/微信.PNG" class="img-responsive img-centered" alt="">
+                            <ul class="list-inline item-details">
+                                <li><strong>Level</strong>:
+                                    National Level
+                                </li>
+                                <li><strong>Role</strong>:
+                                    Core developer
+                                </li>
+                                <li><strong>Date</strong>:
+                                    September 2022
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="competition-modal modal fade" id="competitionModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Innovation & Entrepreneurship Competition</h2>
+                            <hr class="star-primary">
+                            <img src="img/competition/挑战杯.PNG" class="img-responsive img-centered" alt="">
+                            <ul class="list-inline item-details">
+                                <li><strong>Level</strong>:
+                                    National Level
+                                </li>
+                                <li><strong>Role</strong>:
+                                    Core member
+                                </li>
+                                <li><strong>Date</strong>:
+                                    March 2023
+                                </li>
+                            </ul>
+                            <img src="img/competition/互联网+.PNG" class="img-responsive img-centered" alt="">
+                            <ul class="list-inline item-details">
+                                <li><strong>Level</strong>:
+                                    Provincial Level
+                                </li>
+                                <li><strong>Role</strong>:
+                                    Vice-captain, Core member
+                                </li>
+                                <li><strong>Date</strong>:
+                                    March 2023
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="competition-modal modal fade" id="competitionModal3" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -459,20 +602,16 @@
                         <div class="modal-body">
                             <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/competition/数学建模.PNG" class="img-responsive img-centered" alt="">
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Yourname</a>
-                                    </strong>
+                                <li><strong>Level</strong>:
+                                    Provincial Level
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                <li><strong>Role</strong>:
+                                    Main modeler, Main coder 
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li><strong>Date</strong>:
+                                    October 2022
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -482,191 +621,7 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Yourname</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Yourname</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Yourname</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Yourname</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Chengxing Zhou</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
 
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
@@ -731,6 +686,22 @@
         };
         // 使用配置选项绘制饼图
         myChart.setOption(option);
+
+        // =================== 按键事件 ===================
+        var button_1 = document.getElementById('b1');
+        button_1.addEventListener("click", function() {
+            alert("Sorry, I don't have a facebook account!");
+        });
+
+        var button_2 = document.getElementById('b2');
+        button_2.addEventListener("click", function() {
+            alert("Sorry, I don't have a google plus account!");
+        });
+
+        var button_3 = document.getElementById('b3');
+        button_3.addEventListener("click", function() {
+            alert("Sorry, I don't have a linkedin account!");
+        });
 
       </script>
       
