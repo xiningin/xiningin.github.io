@@ -63,7 +63,7 @@ Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>**Chengxi
 </div>
 
 # 📝 Projects
-All in One Low Level Vision Tasks Diffusion Model
+All in One Low Level Vision Tasks Diffusion Model (waiting to be finished)
 .......
 
 # 🎖 Honors and Awards
@@ -81,7 +81,7 @@ China College Students' Internet+ Innovation and Entrepreneurship Competition ([
 - *2020.09 - 2024.06*, I earned my Bachelor's degree in Software Engineering College at Northeastern University before being admitted through recommendation exemption to Sun Yat-sen University's Computer Science College.
 
 # 💬 ​More About Me
-
+Waiting to fill.....
 
 
 <!-- # 💻 Internships
