@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "cxzhou | AI enthusiast"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "To live fully is to explore endlessly—every journey is a step closer to discovering yourself."
 repository               : "xiningin/xiningin.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "ChengXing Zhou"
   avatar           : "images/me.png"
-  bio              : "Sun Yat-sen University, College of Computer Science"
+  bio              : "Sun Yat-sen University, Master of Computer Science"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
