@@ -27,7 +27,7 @@ Following my undergraduate studies, I joined [DISC Lab](http://www.fudan-disc.co
 
 I won the National Scholarship (国家奖学金), the First Prize Scholarship of the College (院级优秀学生一等奖), the First Prize of the [Yonyou Network Technology Scholarship](https://neunews.neu.edu.cn/info/1005/191311.htm) (用友奖学金一等奖), etc.
 
-My research interest includes <u>**Video/Image Generation</u>** and <u>**Large Vision Language Model**</u>. 
+My research interest includes **Video/Image Generation** and **Large Vision Language Model**. 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
