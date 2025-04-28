@@ -27,7 +27,7 @@ Following my undergraduate studies, I joined [DISC Lab](http://www.fudan-disc.co
 
 I won the National Scholarship (国家奖学金), the First Prize Scholarship of the College (院级优秀学生一等奖), the First Prize of the [Yonyou Network Technology Scholarship](https://neunews.neu.edu.cn/info/1005/191311.htm) (用友奖学金一等奖), etc.
 
-My research interest includes <u>**Video/Image Generation** and **Large Vision Language Model**</u>. 
+My research interest includes <u>**Video/Image Generation</u>** and <u>**Large Vision Language Model**</u>. 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -67,10 +67,14 @@ All in One Low Level Vision Tasks Diffusion Model
 .......
 
 # 🎖 Honors and Awards
-- *2023.03* **National Gold Medal** | 'Challenge Cup' National College Student Business Plan Competition ([第十三届“挑战杯”中国大学生创业计划竞赛](https://www.tiaozhanbei.net/)).
-- *2022.08* **National Second Prize** | WeChat Mini Program & Mini Game Development Competition, a national-tier segment of the China Collegiate Computing Contest ([2022年中国高校计算机大赛微信小程序、小游戏应用开发赛](https://developers.weixin.qq.com/community/competition/intro)).
-- *2022.10* **Provincial First Prize** with subsequent nomination for National First Prize evaluation | China Undergraduate Mathematical Contest in Modeling (MCM, [2022年高教社杯全国大学生数学建模竞赛](https://www.mcm.edu.cn/)).
-- *2022.09* **Provincial Gold Medal** | China College Students' Internet+ Innovation and Entrepreneurship Competition ([“建行杯”辽宁省第八届“互联网+”大学生创新创业大赛](https://cy.ncss.cn/))
+- *2023.03* **National Gold Medal** 
+'Challenge Cup' National College Student Business Plan Competition ([第十三届“挑战杯”中国大学生创业计划竞赛](https://www.tiaozhanbei.net/)).
+- *2022.08* **National Second Prize** 
+WeChat Mini Program & Mini Game Development Competition, a national-tier segment of the China Collegiate Computing Contest ([2022年中国高校计算机大赛微信小程序、小游戏应用开发赛](https://developers.weixin.qq.com/community/competition/intro)).
+- *2022.10* **Provincial First Prize** 
+with subsequent nomination for National First Prize evaluation China Undergraduate Mathematical Contest in Modeling (MCM, [2022年高教社杯全国大学生数学建模竞赛](https://www.mcm.edu.cn/)).
+- *2022.09* **Provincial Gold Medal**
+China College Students' Internet+ Innovation and Entrepreneurship Competition ([“建行杯”辽宁省第八届“互联网+”大学生创新创业大赛](https://cy.ncss.cn/))
 
 # 🎓 Educations
 - *2024.09 - now*, I am currently pursuing a Master of Science degree in Computer Science at Sun Yat-sen University (中山大学计算机学院), where I conduct research in the Human Cyber Physical Intelligence Integration Lab ([HCP Lab](https://www.sysu-hcp.net/home/)).
