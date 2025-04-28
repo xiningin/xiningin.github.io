@@ -17,26 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a master's degree in the [HCP Laboratory](https://www.sysu-hcp.net/home/) at Sun Yat-sen University in Guangzhou, ​​under the supervision of [​​Professor Liang Lin (林倞)](https://www.sysu-hcp.net/faculty/lianglin.html)​​.
+I am currently pursuing a master's degree in the [HCP Laboratory](https://www.sysu-hcp.net/home/) at Sun Yat-sen University in Guangzhou, ​​under the supervision of [​​Professor Liang Lin (林倞)](http://www.linliang.net/)​​, cooperating with [Associate Professor Pengxu Wei (魏朋旭)](https://pengxuwei.github.io/).
 
-I graduated from Software Engineering College, [Northeast University](http://www.neu.edu.cn/)(东北大学软件学院) with a bachelor's degree. During my undergraduate studies, I served as a research intern in [Associate Professor Shi Feng (冯时)](https://neu-datamining.github.io/cse/fengshi/)'s [NEU Data Mining group](https://neu-datamining.github.io/), where I conducted research on **Image-Text Multimodal Sentiment Analysis**. Following my undergraduate studies, I joined [DISC Lab](http://www.fudan-disc.com/) led by [Associate Professor Zhongyu Wei (魏忠钰)](http://www.fudan-disc.com/people/zywei) at Fudan University, first through their DISC Beginner project and subsequently as a long-term research intern, focusing on the systematic evaluation and interpretability analysis of **Large Vision-Language Models** (e.g., LLaVA).
+I graduated from Software Engineering College, [Northeast University](http://www.neu.edu.cn/)(东北大学软件学院) with a bachelor's degree. 
+
+During my undergraduate studies, I served as a research intern in [Associate Professor Shi Feng (冯时)](https://neu-datamining.github.io/cse/fengshi/)'s [NEU Data Mining group](https://neu-datamining.github.io/), where I conducted research on **Image-Text Multimodal Sentiment Analysis**. 
+
+Following my undergraduate studies, I joined [DISC Lab](http://www.fudan-disc.com/) led by [Associate Professor Zhongyu Wei (魏忠钰)](http://www.fudan-disc.com/people/zywei) at Fudan University as a long-term research intern, focusing on the systematic evaluation and interpretability analysis of **Large Vision-Language Models** (e.g., LLaVA).
 
 I won the National Scholarship (国家奖学金), the First Prize Scholarship of the College (院级优秀学生一等奖), the First Prize of the [Yonyou Network Technology Scholarship](https://neunews.neu.edu.cn/info/1005/191311.htm) (用友奖学金一等奖), etc.
 
-My research interest includes **Video/Image Generation** and **Large Vision Language Model**. 
+My research interest includes <u>**Video/Image Generation** and **Large Vision Language Model**</u>. 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 🏛️ Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/VisionRegion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785)
 
-Siyuan Wang, Dianyi Wang, **Chengxing Zhou** (共一), Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
+Siyuan Wang, Dianyi Wang, <u>**Chengxing Zhou**</u> (共一), Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
 </div>
 </div>
 
@@ -45,7 +49,7 @@ Siyuan Wang, Dianyi Wang, **Chengxing Zhou** (共一), Zejun Li, Zhihao Fan, Xua
 
 [Can We Achieve Efficient Diffusion without Self-Attention Distilling Self-Attention into Convolutions](https://arxiv.org/pdf/2412.12785)
 
-ZiYi Dong, **Chengxing Zhou**, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
+ZiYi Dong, <u>**Chengxing Zhou**</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
 </div>
 </div>
 
@@ -54,28 +58,27 @@ ZiYi Dong, **Chengxing Zhou**, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
 
 [REFORM-EVAL: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benckmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681529)
 
-Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, **Chengxing Zhou** Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang
+Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>**Chengxing Zhou**</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang
 </div>
 </div>
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+# 📝 Projects
+All in One Low Level Vision Tasks Diffusion Model
+.......
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03* **National Gold Medal** | 'Challenge Cup' National College Student Business Plan Competition ([第十三届“挑战杯”中国大学生创业计划竞赛](https://www.tiaozhanbei.net/)).
+- *2022.08* **National Second Prize** | WeChat Mini Program & Mini Game Development Competition, a national-tier segment of the China Collegiate Computing Contest ([2022年中国高校计算机大赛微信小程序、小游戏应用开发赛](https://developers.weixin.qq.com/community/competition/intro)).
+- *2022.10* **Provincial First Prize** with subsequent nomination for National First Prize evaluation | China Undergraduate Mathematical Contest in Modeling (MCM, [2022年高教社杯全国大学生数学建模竞赛](https://www.mcm.edu.cn/)).
+- *2022.09* **Provincial Gold Medal** | China College Students' Internet+ Innovation and Entrepreneurship Competition ([“建行杯”辽宁省第八届“互联网+”大学生创新创业大赛](https://cy.ncss.cn/))
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Educations
+- *2024.09 - now*, I am currently pursuing a Master of Science degree in Computer Science at Sun Yat-sen University (中山大学计算机学院), where I conduct research in the Human Cyber Physical Intelligence Integration Lab ([HCP Lab](https://www.sysu-hcp.net/home/)).
+- *2020.09 - 2024.06*, I earned my Bachelor's degree in Software Engineering College at Northeastern University before being admitted through recommendation exemption to Sun Yat-sen University's Computer Science College.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 ​More About Me
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
