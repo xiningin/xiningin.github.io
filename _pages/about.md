@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a master's degree in the [HCP Laboratory](https://www.sysu-hcp.net/home/) <img src='images/hcp.jpg' style='width: 6em;'> at Sun Yat-sen University in Guangzhou, ​​under the supervision of [​​Professor Liang Lin (林倞)](http://www.linliang.net/)​​, cooperating with [Associate Professor Pengxu Wei (魏朋旭)](https://pengxuwei.github.io/).
+I am currently pursuing a master's degree in the [HCP Laboratory](https://www.sysu-hcp.net/home/) <img src='images/hcp.jpg' style='width: 1.2em;'> at Sun Yat-sen University in Guangzhou, ​​under the supervision of [​​Professor Liang Lin (林倞)](http://www.linliang.net/)​​, cooperating with [Associate Professor Pengxu Wei (魏朋旭)](https://pengxuwei.github.io/).
 
 I graduated from Software Engineering College, [Northeast University](http://www.neu.edu.cn/)(东北大学软件学院) with a bachelor's degree. 
 
-During my undergraduate studies, I served as a research intern in [Associate Professor Shi Feng (冯时)](https://neu-datamining.github.io/cse/fengshi/)'s [NEU Data Mining group](https://neu-datamining.github.io/), where I conducted research on **Image-Text Multimodal Sentiment Analysis**. 
+During my undergraduate studies, I served as a research intern in [Associate Professor Shi Feng (冯时)](https://neu-datamining.github.io/cse/fengshi/)'s [NEU Data Mining group](https://neu-datamining.github.io/) <img src='images/neudm.jpg' style='width: 1.2em;'> , where I conducted research on **Image-Text Multimodal Sentiment Analysis**. 
 
-Following my undergraduate studies, I joined [DISC Lab](http://www.fudan-disc.com/) <img src='images/disc.jpg' style='width: 6em;'> led by [Associate Professor Zhongyu Wei (魏忠钰)](http://www.fudan-disc.com/people/zywei) at Fudan University as a long-term research intern, focusing on the systematic evaluation and interpretability analysis of **Large Vision-Language Models** (e.g., LLaVA).
+Following my undergraduate studies, I joined [DISC Lab](http://www.fudan-disc.com/) <img src='images/disc.jpg' style='width: 1.2em;'> led by [Associate Professor Zhongyu Wei (魏忠钰)](http://www.fudan-disc.com/people/zywei) at Fudan University as a long-term research intern, focusing on the systematic evaluation and interpretability analysis of **Large Vision-Language Models** (e.g., LLaVA).
 
 I won the National Scholarship (国家奖学金), the First Prize Scholarship of the College (院级优秀学生一等奖), the First Prize of the [Yonyou Network Technology Scholarship](https://neunews.neu.edu.cn/info/1005/191311.htm) (用友奖学金一等奖), etc.
 
@@ -78,8 +78,8 @@ with subsequent nomination for National First Prize evaluation China Undergradua
 China College Students' Internet+ Innovation and Entrepreneurship Competition ([“建行杯”辽宁省第八届“互联网+”大学生创新创业大赛](https://cy.ncss.cn/))
 
 # 🎓 Educations
-- *2024.09 - now*, I am currently pursuing a Master of Science degree in Computer Science at Sun Yat-sen University (中山大学计算机学院) <img src='images/sysucs.jpg' style='width: 6em;'>, where I conduct research in the Human Cyber Physical Intelligence Integration Lab ([HCP Lab](https://www.sysu-hcp.net/home/)).
-- *2020.09 - 2024.06*, I earned my Bachelor's degree in Software Engineering College at Northeastern University <img src='images/neuse.jpg' style='width: 6em;'> before being admitted through recommendation exemption to Sun Yat-sen University's Computer Science College.
+- *2024.09 - now*, I am currently pursuing a Master of Science degree in Computer Science at Sun Yat-sen University (中山大学计算机学院) <img src='images/sysucs.jpg' style='width: 1.2em;'>, where I conduct research in the Human Cyber Physical Intelligence Integration Lab ([HCP Lab](https://www.sysu-hcp.net/home/)).
+- *2020.09 - 2024.06*, I earned my Bachelor's degree in Software Engineering College at Northeastern University <img src='images/neuse.jpg' style='width: 2.8em;'> before being admitted through recommendation exemption to Sun Yat-sen University's Computer Science College.
 
 # 💬 ​More About Me
 Waiting to fill.....
