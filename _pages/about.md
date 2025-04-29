@@ -34,31 +34,32 @@ My research interest includes **Video/Image Generation** and **Large Vision Lang
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🏛️ Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images\convdiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can We Achieve Efficient Diffusion without Self-Attention Distilling Self-Attention into Convolutions](https://arxiv.org/pdf/2412.12785)
+
+ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/VisionRegion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785)
 
-Siyuan Wang, Dianyi Wang, <u>**Chengxing Zhou**</u> (共一), Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
+Siyuan Wang, Dianyi Wang, <u>Chengxing Zhou</u> (共一), Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images\convdiff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Can We Achieve Efficient Diffusion without Self-Attention Distilling Self-Attention into Convolutions](https://arxiv.org/pdf/2412.12785)
-
-ZiYi Dong, <u>**Chengxing Zhou**</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/ReFormEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [REFORM-EVAL: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benckmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681529)
 
-Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>**Chengxing Zhou**</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang
+Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing Zhou</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang
 </div>
 </div>
 
@@ -82,7 +83,3 @@ China College Students' Internet+ Innovation and Entrepreneurship Competition ([
 
 # 💬 ​More About Me
 Waiting to fill.....
-
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
