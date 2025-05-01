@@ -37,7 +37,7 @@ My research interest includes **Video/Image Generation** and **Large Vision Lang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images\convdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Can We Achieve Efficient Diffusion without Self-Attention Distilling Self-Attention into Convolutions](https://arxiv.org/pdf/2412.12785)
+[Can We Achieve Efficient Diffusion without Self-Attention Distilling Self-Attention into Convolutions](https://arxiv.org/pdf/2504.21292)
 
 ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
 </div>
