@@ -40,6 +40,9 @@ My research interest includes **Video/Image Generation** and **Large Vision Lang
 [Can We Achieve Efficient Diffusion without Self-Attention Distilling Self-Attention into Convolutions](https://arxiv.org/pdf/2504.21292)
 
 ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
+
+`TLDR` We analyze attention scores in SDXL, PixArt, and Flux, categorizing them into low-frequency bias and high-frequency local signals. These are replaced with pooling layers and multi-scale CNNs, respectively. Via distillation, we replicate self-attention functionality, reducing computation and accelerating generation.
+
 </div>
 </div>
 
@@ -50,6 +53,8 @@ ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang 
 [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785)
 
 Siyuan Wang, Dianyi Wang, <u>Chengxing Zhou</u> (共一), Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
+
+`TLDR` This study offers an effective and efficient strategy for LVLM training and inference by activating a layer-wise visual region within LLMs, which proves consistently effective across different models.
 </div>
 </div>
 
@@ -60,6 +65,9 @@ Siyuan Wang, Dianyi Wang, <u>Chengxing Zhou</u> (共一), Zejun Li, Zhihao Fan, 
 [REFORM-EVAL: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benckmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681529)
 
 Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing Zhou</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang
+
+`TLDR` This work proposes to re-formulate existing benchmarks into unified LVLM-compatible formats, and presents the ReForm-Eval benchmark, an open-sourced benchmark and evaluation framework offering substantial data for evaluating various capabilities of LVLMs.
+
 </div>
 </div>
 
