@@ -41,7 +41,7 @@ My research interest includes **Video/Image Generation** and **Large Vision Lang
 
 ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
 
-`TLDR` We analyze attention scores in SDXL, PixArt, and Flux, categorizing them into low-frequency bias and high-frequency local signals. These are replaced with pooling layers and multi-scale CNNs, respectively. Via distillation, we replicate self-attention functionality, reducing computation and accelerating generation.
+`TLDR` We analyze self-attention scores in SDXL/PixArt/Flux, identifying low-frequency bias and high-frequency local signals.  These are replaced with pooling layers and multi-scale CNNs via distillation, maintaining quality while reducing computation and accelerating generation.
 
 </div>
 </div>
