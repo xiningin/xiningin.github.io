@@ -34,6 +34,8 @@ My research interest includes **Video/Image Generation** and **Large Vision Lang
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🏛️ Publications 
+<span class='anchor' id='publications'></span>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images\convdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,10 +74,13 @@ Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing
 </div>
 
 # 📝 Projects
+<span class='anchor' id='projects'></span>
+
 All in One Low Level Vision Tasks Diffusion Model (waiting to be finished)
 .......
 
 # 🎖 Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
 - *2023.03* **National Gold Medal** 
 'Challenge Cup' National College Student Business Plan Competition ([第十三届“挑战杯”中国大学生创业计划竞赛](https://www.tiaozhanbei.net/)).
 - *2022.08* **National Second Prize** 
@@ -86,8 +91,10 @@ with subsequent nomination for National First Prize evaluation China Undergradua
 China College Students' Internet+ Innovation and Entrepreneurship Competition ([“建行杯”辽宁省第八届“互联网+”大学生创新创业大赛](https://cy.ncss.cn/))
 
 # 🎓 Educations
+<span class='anchor' id='educations'></span>
 - *2024.09 - now*, I am currently pursuing a Master of Science degree in Computer Science at Sun Yat-sen University (中山大学计算机学院) <img src='images/sysucs.jpg' style='width: 2.4em;'>, where I conduct research in the Human Cyber Physical Intelligence Integration Lab ([HCP Lab](https://www.sysu-hcp.net/home/)).
 - *2020.09 - 2024.06*, I earned my Bachelor's degree in Software Engineering College at Northeastern University <img src='images/neuse.jpg' style='width: 2.8em;'> before being admitted through recommendation exemption to Sun Yat-sen University's Computer Science College.
 
 # 💬 ​More About Me
+<span class='anchor' id='more-about-me'></span>
 Waiting to fill.....
