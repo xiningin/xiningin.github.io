@@ -97,4 +97,8 @@ China College Students' Internet+ Innovation and Entrepreneurship Competition ([
 
 # 💬 ​More About Me
 <span class='anchor' id='more-about-me'></span>
-Waiting to fill.....
+🤖 I'm deeply passionate about cutting-edge AI technologies and committed to developing solid, practical, and interesting work that creates real-world impact. 🔬 My research interests span across multiple domains of artificial intelligence, with particular enthusiasm for implementable solutions.
+
+Beyond my professional pursuits, I maintain diverse hobbies including ✈️ traveling, 🏃 running, 🎮 PC gaming, and 🎲 board games - all of which continuously inspire my technical work with fresh perspectives.
+
+😆 I'm always open to meaningful discussions about technology or casual hangouts. 📬 Feel free to reach out via email or connect on WeChat (xxxiiinnggg) - whether you'd like to 💡 exchange ideas about AI or 🎉 organize a game night!
