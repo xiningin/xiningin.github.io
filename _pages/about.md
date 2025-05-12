@@ -76,7 +76,22 @@ Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing
 # 📝 Projects
 <span class='anchor' id='projects'></span>
 
-All in One Low Level Vision Tasks Diffusion Model (waiting to be finished)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images\MultiScaleIR.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  All in One Low Level Vision Tasks Diffusion Model (Havn't finished yet, coming soon!)
+
+  <!-- Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing Zhou</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang -->
+
+  <!-- `TLDR` This work proposes to re-formulate existing benchmarks into unified LVLM-compatible formats, and presents the ReForm-Eval benchmark, an open-sourced benchmark and evaluation framework offering substantial data for evaluating various capabilities of LVLMs. -->
+
+  </div>
+</div>
 .......
 
 # 🎖 Honors and Awards
