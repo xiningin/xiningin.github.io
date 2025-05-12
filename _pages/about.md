@@ -79,12 +79,14 @@ Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images\MultiScaleIR.png' alt="sym" width="100%">
+      <img src='images\MultiScaleIR_left.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  All in One Low Level Vision Tasks Diffusion Model (Havn't finished yet, coming soon!)
+  **Denoise Anything**
+  All-in-One Low-Level Vision Tasks via Diffusion Models, which treat image degradation in low-quality images as noise. (Havn't finished yet, coming soon!)
+
 
   <!-- Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing Zhou</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang -->
 
