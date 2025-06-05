@@ -54,7 +54,7 @@ ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang 
 
 [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785)
 
-Siyuan Wang*, Dianyi Wang*, <u>Chengxing Zhou</u>*, Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
+Siyuan Wang, Dianyi Wang, <u>Chengxing Zhou</u>(共一), Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
 
 <!-- `TLDR` This study offers an effective and efficient strategy for LVLM training and inference by activating a layer-wise visual region within LLMs, which proves consistently effective across different models. -->
 `TLDR` We propose an efficient training strategy for large vision-language models, where only **25% of sparsely and uniformly distributed layer-wise parameters** (the "visual cortex" of the large language model) in the backbone LLM are fine-tuned. **This approach reduces training time by 23% while retaining nearly 99% of visual performance and slightly improving pure text processing capability.**
