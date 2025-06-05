@@ -43,8 +43,8 @@ My research interest includes **Video/Image Generation** and **Large Vision Lang
 
 ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang Lin
 
-`TLDR` We analyze self-attention scores in SDXL/PixArt/Flux, identifying low-frequency bias and high-frequency local signals.  These are replaced with pooling layers and multi-scale CNNs via distillation, maintaining quality while reducing computation and accelerating generation.
-
+<!-- `TLDR` We analyze self-attention scores in SDXL/PixArt/Flux, identifying low-frequency bias and high-frequency local signals.  These are replaced with pooling layers and multi-scale CNNs via distillation, maintaining quality while reducing computation and accelerating generation. -->
+`TLDR` We propose **$\Delta$-ConvBlocks**, a novel module for image generation models (e.g., SDXL, PixArt) based on **multi-scale CNNs and adaptive pooling**, which distills the self-attention mechanism. Compared to linear-attention modules (also with $O(n)$ complexity), our design **reduces computational cost by 5.42×** while **maintaining comparable generation quality**.  
 </div>
 </div>
 
@@ -54,9 +54,10 @@ ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang 
 
 [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785)
 
-Siyuan Wang, Dianyi Wang, <u>Chengxing Zhou</u> (共一), Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
+Siyuan Wang*, Dianyi Wang*, <u>Chengxing Zhou</u>*, Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei
 
-`TLDR` This study offers an effective and efficient strategy for LVLM training and inference by activating a layer-wise visual region within LLMs, which proves consistently effective across different models.
+<!-- `TLDR` This study offers an effective and efficient strategy for LVLM training and inference by activating a layer-wise visual region within LLMs, which proves consistently effective across different models. -->
+`TLDR` We propose an efficient training strategy for large vision-language models, where only **25% of sparsely and uniformly distributed layer-wise parameters** (the "visual cortex" of the large language model) in the backbone LLM are fine-tuned. **This approach reduces training time by 23% while retaining nearly 99% of visual performance and slightly improving pure text processing capability.**
 </div>
 </div>
 
@@ -68,7 +69,7 @@ Siyuan Wang, Dianyi Wang, <u>Chengxing Zhou</u> (共一), Zejun Li, Zhihao Fan, 
 
 Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing Zhou</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang
 
-`TLDR` This work proposes to re-formulate existing benchmarks into unified LVLM-compatible formats, and presents the ReForm-Eval benchmark, an open-sourced benchmark and evaluation framework offering substantial data for evaluating various capabilities of LVLMs.
+`TLDR` This work proposes to re-formulate existing benchmarks into unified LVLM-compatible formats, and presents the ReForm-Eval benchmark, **an open-sourced benchmark and evaluation framework** offering substantial data for **evaluating various capabilities of LVLMs**.
 
 </div>
 </div>
@@ -79,13 +80,14 @@ Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images\MultiScaleIR_left.png' alt="sym" width="100%">
+      <img src='images\MultiScaleIR.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
   **Denoise Anything**
-  All-in-One Low-Level Vision Tasks via Diffusion Models, which treat image degradation in low-quality images as noise. (Havn't finished yet, coming soon!)
+  <!-- All-in-One Low-Level Vision Tasks via Diffusion Models, which treat image degradation in low-quality images as noise. (Havn't finished yet, coming soon!) -->
+  `TLDR` We propose a **unified diffusion-based framework** for low-level vision tasks, where image denoising, over/under-exposure correction, and related problems are uniformly modeled as **degenerated noise removal**. Our approach **outperforms existing all-in-one methods** on standard metrics (PSNR, SSIM, LPIPS) and even **surpasses task-specific state-of-the-art models** in certain applications (e.g., dehazing, desnowing).  
 
 
   <!-- Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing Zhou</u> Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang -->
