@@ -85,8 +85,9 @@ Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, <u>Chengxing
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **Denoise Anything**
-  <!-- All-in-One Low-Level Vision Tasks via Diffusion Models, which treat image degradation in low-quality images as noise. (Havn't finished yet, coming soon!) -->
+  **底层视觉下游任务通用大模型 Denoise Anything**
+
+
   `TLDR` We propose a **unified diffusion-based framework** for low-level vision tasks, where image denoising, over/under-exposure correction, and related problems are uniformly modeled as **degenerated noise removal**. Our approach **outperforms existing all-in-one methods** on standard metrics (PSNR, SSIM, LPIPS) and even **surpasses task-specific state-of-the-art models** in certain applications (e.g., dehazing, desnowing).  
 
 
