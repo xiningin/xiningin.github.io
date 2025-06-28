@@ -49,7 +49,7 @@ ZiYi Dong, <u>Chengxing Zhou</u>, Weijian Deng, Pengxu Wei, Xiangyang Ji, Liang 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/intro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/VisionRegion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785)
